@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Gestión de Clientes</title>
+    <title>TP Integrador</title>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
     <style>
         body {
@@ -111,7 +111,6 @@
 
     <div class="navbar">
         <h1>Clientes</h1>
-        <div class="user-info">Usuario: Cliente X</div>
     </div>
 
     <div class="container">
